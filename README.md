@@ -1,4 +1,4 @@
-# Android-development 
+# RFID App 
 Here's an android application used for an embedded system project.
 
 The project is based on IoT implementing Raspberrypi , RFID and Firebase cloud as main features.
